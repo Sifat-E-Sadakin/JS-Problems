@@ -1,0 +1,23 @@
+{
+  "dependencies": {
+    "prompt-sync": "^4.2.0"
+  },
+  "name": "js",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Sifat-E-Sadakin/JS-Problems.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Sifat-E-Sadakin/JS-Problems/issues"
+  },
+  "homepage": "https://github.com/Sifat-E-Sadakin/JS-Problems#readme",
+  "keywords": [],
+  "description": ""
+}

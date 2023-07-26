@@ -1,0 +1,1 @@
+calculate(5, 3, multiply);
